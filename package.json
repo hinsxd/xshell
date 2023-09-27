@@ -1,7 +1,7 @@
 {
   "name": "@hinsxd/xshell",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "private": false,
   "description": "A CLI tool to explain shell commands with explainshell.com",
   "main": "index.js",
