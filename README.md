@@ -1,6 +1,11 @@
 # CLI for explainshell.com
 A dead-simple well-formated  CLI for explainshell.com
 
+# Install 
+```sh
+$ npm install -g @hinsxd/xshell
+```
+
 # Usage
 ```sh
 $ xshell 'your_command_here'
